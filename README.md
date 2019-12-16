@@ -3,20 +3,14 @@
 This repository is intended to allow replication and extension of the study
 conducted in the following paper:
 
-(Author Information Excluded for Double Blind Review). Learning How to 
+Hussein Almulla and Gregory Gay. Learning How to 
 Search: Generating Exception-Triggering Tests Through Adaptive Fitness 
-Function Selection. Under submission to IEEE International Conference 
-on Software Testing.
+Function Selection. To appear, IEEE International Conference 
+on Software Testing, 2020.
 
 The original experiment was conducted on Amazon EC2 instances (t2.large) 
 running Amazon Linux. Original development was conducted on Ubuntu 
 Linux. We provide setup for both platforms. 
-
-## Note for Reviewers
-
-If you encounter any issues during your review, you may contact us using the 
-Issues tab above (we will respond through the dummy account to maintain the 
-blind status). 
 
 ## Setup
 
